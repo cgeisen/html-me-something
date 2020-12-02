@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(44, 44, 44);
+}
+nav {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+h1 {
+    color: white;
+    width: 900px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 28pt;
+    font-weight: lighter;
+}
+
+h2 {
+    padding-left: 20px;
+}
+
+a {
+    color: greenyellow;
+}
+
+article {
+    color: white;
+    width: 920px;
+    padding-bottom: 100px;
+}
+
+footer {
+    color: grey;
+}
+
+.main {
+    color: white;
+    width: 860px;
+    height: 400px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.floatLeft {
+    float: left;
+    padding-right: 20px;
+}
+
+.floatRight {
+    float: right;
+    padding-left: 20px;
+}
